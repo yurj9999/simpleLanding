@@ -1,1 +1,1 @@
-# simpleLanding
+Простой лендинг
